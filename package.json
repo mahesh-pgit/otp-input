@@ -1,0 +1,30 @@
+{
+  "name": "otp-input",
+  "version": "1.0.0",
+  "author": "Mahesh N",
+  "description": "OTP Input Page using React",
+  "license": "ISC",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "otp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahesh-pgit/otp-input.git"
+  },
+  "homepage": "https://github.com/mahesh-pgit/otp-input#readme",
+  "bugs": {
+    "url": "https://github.com/mahesh-pgit/otp-input/issues"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  }
+}
